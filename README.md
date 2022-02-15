@@ -23,9 +23,12 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikankam&show_icons=true&theme=react)
  
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api/'theme= prussian')
+ 
+  <h2>🤣 Here's A Joke For You:</h2>
+ 
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="prussian"/>
+ 
+ 
  
 
 
