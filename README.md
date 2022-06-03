@@ -1,4 +1,4 @@
-<h1> Hi there! Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1> Hi there! Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
 
 <h2>  👷🏽‍♀️  <u> About Me:<u/> </h2> 
  
